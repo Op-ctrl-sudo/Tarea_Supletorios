@@ -1,0 +1,15 @@
+provincia;delito;judicializado;victima;monto;anio
+Tungurahua;Testaferrismo;false;ciudadania;200;2021
+Cotopaxi;robodevehiculos;true;ciudadania;500;2022
+Guayas;robodevehiculos;false;ciudadania;2000;2023
+Napo;Extorsion;true;ciudadania;800;2024
+Esmeraldas;Cohecho;false;estado;500;2021
+Cotopaxi;Ataquesinformaticos;true;empresaprivada;200;2024
+Esmeraldas;Peculado;true;ciudadania;800;2022
+Esmeraldas;lesiones;false;empresaprivada;1000;2021
+Pichincha;robodevehiculos;true;ciudadania;500;2024
+Cotopaxi;secuestro;false;empresaprivada;800;2022
+Loja;Peculado;true;EEL;200;2021
+Loja;Peculado;true;EEL;500;2023
+Pastaza;Robo;true;UTA;300.0;2024
+Esmeraldas;Robo;true;UTA;3000.0;2024
